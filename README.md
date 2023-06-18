@@ -18,3 +18,14 @@ This project implements a virtual friend chatbot using Streamlit and a pre-train
 
 ```bash
 https://github.com/Rishikesh0/Chat_bot.git
+
+2. Enter the file
+
+```bash
+cd virtual-friend-chatbot
+
+3. Run the Streamlit App
+
+```bash
+streamlit run Chatbot_app.py
+
